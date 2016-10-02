@@ -2,4 +2,4 @@
 # sh who_am_i.sh
 
 ldapwhoami -Q | cut -c 4-
-# Enable SASL Quiet mode. Never prompt.
+# Enable SASL Quiet mode
