@@ -1,5 +1,5 @@
 #!/bin/sh
-# ./midLS
+# sh midLS
 
 ls -mcp
 # Search for ctime
