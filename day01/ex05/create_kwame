@@ -1,0 +1,7 @@
+#!/bin/sh
+# ./create_kwame
+
+touch $(printf 'KwaMe')
+# File: "\?$*'KwaMe'*$?\" :)
+
+# You don't have to push this !

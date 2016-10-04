@@ -1,0 +1,21 @@
+#!/bin/sh
+# ./check_kwame
+
+#echo '''"\?$*'''''\'KwaMe\''''''*$?\"'''
+
+echo 42 > KwaMe
+# Add a line
+truncate -s 2 KwaMe
+# Change size
+chmod 614 KwaMe
+# Change permissions
+touch -t 10021221 KwaMe
+# Change time
+sudo chown 75355 KwaMe
+# Change owner
+sudo chgrp 32015 KwaMe
+# Change group
+ls -lRa *waM* | cat -e
+# Check file
+
+# You don't have to push this !
