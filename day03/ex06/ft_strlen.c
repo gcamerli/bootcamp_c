@@ -1,5 +1,3 @@
-void	ft_putchar(char c);
-
 int	ft_strlen(char *str)
 {
 	int i;
