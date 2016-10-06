@@ -1,39 +1,39 @@
 #include <unistd.h>
 #include <stdio.h>
 
-void    ft_putchar(char nbr)
+void    ft_putchar(char c)
 {
-    write(1, &nbr, 1);
+    write(1, &c, 1);
 }
 
-void	ft_putnbr(int nbr)
+void	ft_putnbr(int nb)
 {
 	int min;
 	int max;
 
 	min = -2147483648;
 	max = 2147483647;
-	if (nbr > min || nbr <= max)
+	if (nb > min || nb <= max)
 	{
-		if (nbr >= 10)
+		if (nb >= 10)
 		{
-			ft_putnbr(nbr / 10);
-			ft_putnbr(nbr % 10);
+			ft_putnbr(nb / 10);
+			ft_putnbr(nb % 10);
 		}
-		else if (nbr < 0)
+		else if (nb < 0)
 		{
-			nbr = -nbr;
+			nb = -nb;
 			ft_putchar('-');
-			ft_putnbr(nbr);
+			ft_putnbr(nb);
 		}
 		else
-			ft_putchar(nbr + '0');
+			ft_putchar(nb + '0');
 	}
 }
 
-void	ft_putaddr(void *nbr)
+void	ft_putaddr(void *ptr)
 {
-	printf("%p \n", nbr);	
+	printf("%p \n", ptr);	
 }
 
 /* You don't have to push this ! */
