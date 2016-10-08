@@ -18,5 +18,5 @@ if ([ "$FT_NBR1" ] && [ "$FT_NBR2" ]); then
 	echo "$A + $B" | bc | xargs echo "obase=13; ibase=5;" | bc |\
 	# Execute the sum and change the numerical base
 	tr "0123456789ABC" "gtaio luSnemf"
-	# Create string conversion for SUM
+	# Create string conversion
 fi
