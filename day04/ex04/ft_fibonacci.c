@@ -10,7 +10,7 @@ int	ft_fibonacci(int index)
 	{
 		return (1);
 	}
-	else if (index >= 3)
+	else if (index >= 3 && index < 42)
 	{
 		result = ft_fibonacci(index - 1) + ft_fibonacci(index - 2);
 		return (result);	
