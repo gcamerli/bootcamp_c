@@ -16,4 +16,5 @@ int	ft_recursive_factorial(int nb)
 		return (0);
 	}
 }
+
 /* Pay attention to the return int size ! */
