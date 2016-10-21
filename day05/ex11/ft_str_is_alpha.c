@@ -13,7 +13,6 @@ int	ft_str_is_alpha(char *str)
 		{
 			return (1);
 		}
-
 		else
 		{
 			return (0);
