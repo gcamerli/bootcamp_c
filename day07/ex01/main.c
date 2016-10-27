@@ -8,16 +8,16 @@ int	main(void)
 	int min;
 	int max;
 	int len;
-	int *range;
+	int *tab;
 
 	i = 0;
 	min = 1;
 	max = 10;
 	len = max - min;
-	range = ft_range(min, max);
+	tab = ft_range(min, max);
 	while (i < len)
 	{
-		printf("%d", range[i]);
+		printf("%d", tab[i]);
 		i++;
 	}
 	printf("\n");
