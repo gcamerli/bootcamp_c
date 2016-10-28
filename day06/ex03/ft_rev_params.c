@@ -10,6 +10,7 @@ char	ft_putstr(char *str)
 		ft_putchar(str[i]);
 		i++;
 	}
+	return (0);
 }
 
 int	main(int argc, char **argv)
