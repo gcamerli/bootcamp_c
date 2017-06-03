@@ -35,7 +35,9 @@ Each week there will be a **4 hour exam**. The final exam lasts **8 hours**. Eac
 
 Stay **focus** and enjoy the time!
 
-**Note**: Cheaters are strictly punished at **42**, so use wisely all this stuff. ;)
+### **Note**
+
+Cheaters are strictly punished at **42**, so use wisely all this stuff. ;)
 
 ### **Credits**
 
