@@ -13,8 +13,9 @@ This project is based on 2 main sections:
   + Days
   + Projects
 
-    + Group (rush)
+    + Group
     + Individual
+    + Special (bsq)
 
   + Norme
 
