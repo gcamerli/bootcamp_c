@@ -1,5 +1,0 @@
-#!/bin/sh
-# sh clean
-
-find . \( -name "*~" -or -name "*#" -or -name "#*" \) -print -delete
-# Find specific files in all subdir from current, print and delete
