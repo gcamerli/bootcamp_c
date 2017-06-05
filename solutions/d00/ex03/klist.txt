@@ -1,0 +1,6 @@
+Credentials cache: API:3D467AE7-FCFD-49CC-837D-1F3223860766
+        Principal: gcamerli@42.FR
+
+  Issued                Expires               Principal
+Aug 29 10:49:06 2016  Sep  5 10:49:06 2016  krbtgt/42.FR@42.FR
+Aug 29 13:25:04 2016  Sep  5 10:49:06 2016  host/vgs-fn1.42.fr@42.FR

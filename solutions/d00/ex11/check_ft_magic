@@ -1,0 +1,9 @@
+#!/bin/sh
+# ./check_ft_magic
+
+file -C -m ft_magic
+# Compile ft_magic formatted file
+file -m ft_magic ft_magic.mgc 
+# Use ft_magic with .mgc file for a test
+
+# You don't have to push this !
