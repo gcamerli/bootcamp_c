@@ -2,6 +2,8 @@
 
 ### **Description**
 
+**Subject**: shell
+
 **Day01** requires a greater understanding of the problems. You will deal with:
 
 + **Printing**
@@ -19,4 +21,4 @@
 
 + **[Regular expressions](https://en.wikipedia.org/wiki/Regular_expression#Syntax)**
 + **[dev/null](https://it.wikipedia.org/wiki//dev/null)**
-+ **[awk](https://www.mankier.com/1p/awk)
++ **[awk](https://www.mankier.com/1p/awk)**
