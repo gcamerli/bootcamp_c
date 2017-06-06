@@ -41,7 +41,7 @@ Cheaters are strictly punished at **42**, so use wisely all this stuff. ;)
 
 ### **Credits**
 
-All the shared documents are property of **42**. Solutions are mine.
+All the shared documents were prepared by **Staff 42**. Solutions are mine.
 
 ### **CC License**
 
