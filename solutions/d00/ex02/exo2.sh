@@ -16,7 +16,7 @@ chmod 641 test4
 # Change permissions
 touch -t 06012047 test0
 touch -t 06012146 test1
--r-----r--  2 vihat vihat    1  1 giu  2016 test3touch -t 06012245 test2
+touch -t 06012245 test2
 touch -t 06012344 test3
 touch -t 06012343 test4
 touch -ht 06012220 test6
