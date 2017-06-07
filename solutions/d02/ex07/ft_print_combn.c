@@ -40,7 +40,7 @@ void	ft_print_combn(int n)
 {
 	int	tab[n];
 	int	i;
-	int col;
+	int	col;
 
 	col = n - 1;
 	if (n > 10)
