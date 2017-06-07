@@ -6,7 +6,7 @@ void	ft_print_2_comb(void)
 	char j;
 	
 	i = '/';
-	while (i <=	'9')
+	while (i <= '9')
 	{
 		j = ++i + 1;
 		while (j <= '9')
