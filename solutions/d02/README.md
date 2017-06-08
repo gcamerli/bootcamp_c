@@ -33,8 +33,11 @@ int main(void)
 
 ### **Resources**
 
++ **[C data types](https://www.programiz.com/c-programming/c-data-types)**
 + **[Combinations](http://rosettacode.org/wiki/Combinations#C)**
 
 ### **Bonus**
 
++ **[ASCII](https://en.wikipedia.org/wiki/ASCII)**
++ **[C standard library](https://en.wikipedia.org/wiki/C_standard_library)**
 + **[Binomial coefficient](https://en.wikipedia.org/wiki/Binomial_coefficient)**
