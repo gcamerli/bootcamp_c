@@ -16,8 +16,8 @@
 
 + **Arrays**
 
-  + **Characters string**
-  + **Integers table**
+  + **Character strings**
+  + **Integer tables**
 
 ### **Resources**
 
