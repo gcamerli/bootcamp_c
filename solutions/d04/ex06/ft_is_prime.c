@@ -1,7 +1,7 @@
 int	ft_is_prime(int nb)
 {
-	int i;
-	int max;
+	int	i;
+	int	max;
 	
 	i = 2;
 	max = 2147483647;

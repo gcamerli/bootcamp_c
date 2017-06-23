@@ -1,6 +1,6 @@
 int	ft_fibonacci(int index)
 {
-	int result;
+	int	result;
 	
 	if (index == 0)
 	{

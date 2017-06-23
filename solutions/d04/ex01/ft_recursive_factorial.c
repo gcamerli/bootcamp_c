@@ -1,6 +1,6 @@
 int	ft_recursive_factorial(int nb)
 {
-	int result;
+	int	result;
 
 	if (nb >= 1 && nb <= 12)
 	{
