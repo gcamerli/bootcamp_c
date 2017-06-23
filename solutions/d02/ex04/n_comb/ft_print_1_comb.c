@@ -2,7 +2,7 @@ void	ft_putchar(char c);
 
 void	ft_print_1_comb(void)
 {
-	char i;
+	char	i;
 	
 	i = '/';
 	while (i <= '9')
