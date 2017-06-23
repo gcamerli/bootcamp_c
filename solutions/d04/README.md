@@ -28,3 +28,4 @@ And surely with **russian dolls**. ^_____^
 + **[Recursion](https://en.wikipedia.org/wiki/Recursion_%28computer_science%29)**
 + **[Stack](https://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29)**
 + **[Segmentation fault](https://en.wikipedia.org/wiki/Segmentation_fault)**
++ **[C Operators](https://en.wikipedia.org/wiki/Operators_in_C_and_C%2B%2B)**
