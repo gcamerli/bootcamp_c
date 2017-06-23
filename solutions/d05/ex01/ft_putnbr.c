@@ -2,8 +2,8 @@ void	ft_putchar(char c);
 
 void	ft_putnbr(int nb)
 {
-	int min;
-	int max;
+	int	min;
+	int	max;
 
 	min = -2147483648;
 	max = 2147483647;
