@@ -9,11 +9,3 @@
 + **Manipulation**
 
 + **ASCII code**
-
-### **Resources**
-
-+ **[Factorial](https://en.wikipedia.org/wiki/Factorial)**
-
-### **Bonus**
-
-+ **[Iteration](https://en.wikipedia.org/wiki/Iteration)**
