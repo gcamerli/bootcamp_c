@@ -5,9 +5,9 @@ void	ft_swap(int *a, int *b);
 
 int	main(void)
 {
-	int a;
-	int b;
-	int *ptr;
+	int	a;
+	int	b;
+	int	*ptr;
 	int	*ptr2;
 
 	a = 24;

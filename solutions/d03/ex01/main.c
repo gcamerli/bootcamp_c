@@ -6,9 +6,9 @@ void	ft_ultimate_ft(int *********nbr);
 
 int	main(void)
 {
-	int a;
-	int *ptr;
-	int **ptr2;
+	int	a;
+	int	*ptr;
+	int	**ptr2;
 	int	***ptr3;
 	int	****ptr4;
 	int	*****ptr5;

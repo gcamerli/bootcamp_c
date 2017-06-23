@@ -5,7 +5,7 @@ int	ft_sort_integer_table(int *tab, int size);
 int	main(void)
 {
 	int	tab[9] = {11, 14, 3, 9, 7, 2, 4, 5, 8};
-	int i;
+	int	i;
 
 	i = 0;
 	ft_sort_integer_table(tab, 9);

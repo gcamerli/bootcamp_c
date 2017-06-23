@@ -7,8 +7,8 @@ void	ft_ft(int *nbr);
 
 int	main(void)
 {
-	int a;
-	int *ptr;
+	int	a;
+	int	*ptr;
 
 	a = 24;
 	ptr = &a;

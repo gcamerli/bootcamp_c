@@ -1,8 +1,8 @@
 void	ft_sort_integer_table(int *tab, int size)
 {
-	int		i;
-	int		j;
-	int		temp;
+	int	i;
+	int	j;
+	int	temp;
 
 	i = 1;
 	while (i < size)
