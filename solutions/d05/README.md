@@ -4,7 +4,7 @@
 
 **Subject**: C
 
-**Day05** is dedicated to **Characters string**. You will deal with:
+**Day05** is dedicated to **Character strings**. You will deal with:
 
 + **Manipulation**
 
