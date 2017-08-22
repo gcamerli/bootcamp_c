@@ -1,8 +1,7 @@
-
-#------------------------------------------------------------------------------
+#------------------------------------------
 # $File$
 # ft_magic: file(1) magic for 42 file type
 #
 
-# 42	File	Format
-+42	string	42 42 file
+# 42	File 	Type 	Format
++42		string	42 		42 file
