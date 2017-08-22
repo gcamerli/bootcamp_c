@@ -1,6 +1,6 @@
 # **Bootcamp C**
 
-42 Piscine (Paris | September 2016)
+42 Piscine (Paris)
 
 ![Marvin](images/marvin.jpg)
 
@@ -15,13 +15,15 @@ This project is based on 2 main sections:
 
     + Group
     + Individual
-    + Special (bsq)
+    + Special (BSQ)
 
   + Norme
 
 + **Solutions**
 
-  + Still in progress
+This is a **gift** for you, after **week 01** you have to swim on your own ;)
+
+***
 
 The entire **bootcamp** lasts **25 days** and is divided as follows:
 
@@ -33,6 +35,8 @@ The entire **bootcamp** lasts **25 days** and is divided as follows:
 
 Each week there will be a **4 hour exam**. The final exam lasts **8 hours**. Each exam is completely in an **offline** mode.
 
+**Day 09** is a special day and lasts **24 hours**, one exercise per hour.
+
 Stay **focus** and enjoy the time!
 
 ### **Note**
@@ -42,6 +46,8 @@ Cheaters are strictly punished at **42**, so use wisely all this stuff. ;)
 ### **Credits**
 
 All the shared documents were prepared by **Staff 42**. Solutions are mine.
+
+If you want to access to the **full repo**, contact me in **[private](mailto:gicamerl@student.42.fr)**.
 
 ### **CC License**
 
