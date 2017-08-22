@@ -1,5 +1,4 @@
 #!/bin/sh
 # sh skip.sh
 
-ls -l | sed -n 'n;p'
-# Print only the odd lines
+ls -l | sed -n 'p;n'

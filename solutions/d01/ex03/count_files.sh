@@ -1,4 +1,4 @@
 #!/bin/sh
 # sh count_files.sh | cat -e
 
-find . | wc | awk '{print $1}'
+find . -type f -o -type d | wc | awk '{print $1}'
