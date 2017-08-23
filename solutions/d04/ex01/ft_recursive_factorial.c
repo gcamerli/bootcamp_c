@@ -7,14 +7,8 @@ int	ft_recursive_factorial(int nb)
 		result = nb * ft_recursive_factorial(nb - 1);
 		return (result);
 	}
-	else if (nb == 0)
-	{
+	if (nb == 0)
 		return (1);
-	}
 	else
-	{
 		return (0);
-	}
 }
-
-/* Pay attention to the return int size ! */

@@ -1,22 +1,16 @@
 int	ft_sqrt(int nb)
 {
-	int	r;
+	int	root;
 
-	r = 1;
-	while (r * r != nb)
+	root = 1;
+	while (root * root != nb)
 	{
-		if (r / 2 > nb)
-		{
-			break;
-		}
-		r++;
+		if (root / 2 > nb)
+			break ;
+		root++;
 	}
-	if (r * r == nb)
-	{
-		return (r);
-	}
+	if (root * root == nb)
+		return (root);
 	else 
-	{
 		return (0);
-	}
 }

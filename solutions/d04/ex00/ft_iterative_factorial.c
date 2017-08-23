@@ -16,5 +16,3 @@ int	ft_iterative_factorial(int nb)
 	}
 	return (result);
 }
-
-/* Pay attention to the return int size ! */
