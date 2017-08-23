@@ -5,18 +5,12 @@
 
 FILE=\"\\\?\$\*\'KwaMe\'\*\$\?\\\"
 
-echo 42 > "\"\?\$*'KwaMe'*\$?\\\""
+echo -n 42 > "\"\?\$*'KwaMe'*\$?\\\""
 # Create file and add 42
-truncate -s 2 $FILE
-# Change size
 chmod 614 $FILE
 # Change permissions
 touch -t 10021221 $FILE
 # Change time
-sudo chown 75355 $FILE
-# Change owner
-sudo chgrp 32015 $FILE
-# Change group
 ls -lRa *waM* | cat -e
 # Check file
 
