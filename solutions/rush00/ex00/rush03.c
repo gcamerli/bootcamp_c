@@ -1,12 +1,13 @@
 void	ft_putchar(char c);
 
-char	ft_get_line(int x, char a, char b, char c)
+void	ft_print_row(int x, char a, char b, char c)
 {
 	int i;
 	
 	if (x == 1)
 	{
 		ft_putchar(a);
+		ft_putchar('\n');
 	}
 	if (x > 1)
 	{
@@ -18,29 +19,30 @@ char	ft_get_line(int x, char a, char b, char c)
 			i++;
 		}
 		ft_putchar(c);
+		ft_putchar('\n');
 	}
-	ft_putchar('\n');
-	return (0);
 }
 
-char	rush(int x, int y)
+void	rush(int x, int y)
 {
 	int i;
+	int min;
 	
-	if (y == 1)
+	min = 0;
+	if ((x > min) && (y > min))
 	{
-		ft_get_line(x, 'A', 'B', 'C');
-	}
-	if (y > 1)
-	{
-		i = 2;
-		ft_get_line(x, 'A', 'B', 'C');
-		while (i < y)
+		if (y == 1)
+			ft_print_row(x, 'A', 'B', 'C');
+		if (y > 1)
 		{
-			ft_get_line(x, 'B', ' ', 'B');
-			i++;
+			i = 2;
+			ft_print_row(x, 'A', 'B', 'C');
+			while (i < y)
+			{
+				ft_print_row(x, 'B', ' ', 'B');
+				i++;
+			}
+			ft_print_row(x, 'A', 'B', 'C');
 		}
-		ft_get_line(x, 'A', 'B', 'C');
 	}
-	return (0);
 }

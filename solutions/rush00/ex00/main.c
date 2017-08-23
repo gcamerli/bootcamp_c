@@ -3,6 +3,6 @@ char	rush(int x, int y);
 
 int	main(void)
 {
-	rush(1, 1);
+	rush(42, 42);
 	return (0);
 }
