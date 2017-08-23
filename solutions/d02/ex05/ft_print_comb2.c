@@ -2,49 +2,35 @@ void	ft_putchar(char c);
 
 void	ft_putnbr(int nb)
 {
-	int	tmp;
-	int	size;
-
-	size = 1;
-	if (nb < 0)
+	if (nb >= 10)
 	{
-		ft_putchar('-');
-		nb = -nb;
+		ft_putnbr(nb / 10);
+		ft_putnbr(nb % 10);
 	}
-	tmp = nb;
-	while (tmp > 9)
+	else
 	{
-		tmp /= 10;
-		size *= 10;
-	}
-	tmp = nb;
-	while (size > 0)
-	{
-		ft_putchar((char)(tmp / size) + 48);
-		tmp %= size;
-		size /= 10;
+		ft_putchar(nb + '0');
 	}
 }
 
 void	ft_put_comb(int a, int b)
 {
-	if (a != 0 || b != 1)
-		ft_putchar(',');
-	if (a != 0 || b != 1)
-		ft_putchar(' ');
 	if (a < 10)
+	{
 		ft_putchar('0');
-	if (a < 10)
-		ft_putchar(a + '0');
-	else
-		ft_putnbr(a);
+	}
+	ft_putnbr(a);
 	ft_putchar(' ');
 	if (b < 10)
+	{
 		ft_putchar('0');
-	if (b < 10)
-		ft_putchar(b + '0');
-	else
-		ft_putnbr(b);
+	}
+	ft_putnbr(b);
+	if (a != 98 || b != 99)
+	{
+		ft_putchar(',');
+		ft_putchar(' ');
+	}
 }
 
 void	ft_print_comb2(void)

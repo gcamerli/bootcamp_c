@@ -2,14 +2,16 @@ void	ft_putchar(char c);
 
 void	ft_putnbr(int nb)
 {
-	int	min;
-	int	max;
-
-	min = -2147483648;
-	max = 2147483647;
-	if (nb > min || nb <= max)
+	if (nb > -2147483648 || nb <= 2147483647)
 	{
-		if (nb >= 10)
+		if (nb == -2147483648)
+		{
+			ft_putchar('-');
+			ft_putchar('2');
+			ft_putnbr(147483647);
+			return ;
+		}
+		else if (nb >= 10)
 		{
 			ft_putnbr(nb / 10);
 			ft_putnbr(nb % 10);
