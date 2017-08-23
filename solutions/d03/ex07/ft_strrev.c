@@ -1,7 +1,7 @@
 char	*ft_strrev(char *str)
 {
-	int	i;
-	int	j;
+	int		i;
+	int		j;
 	char	temp;
 
 	i = 0;
