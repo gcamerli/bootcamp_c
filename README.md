@@ -52,3 +52,9 @@ If you want to access to the **full repo**, contact me in **[private](mailto:gic
 ### **CC License**
 
 This work is provided under the terms of this license: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+
+### **Donations**
+
+Donations are accepted at:
+
++ **BTC**: 152pyNwPRr22XWYdTuyHormznzu4PvPrWg
