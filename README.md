@@ -39,19 +39,13 @@ Each week there will be a **4 hour exam**. The final exam lasts **8 hours**. Eac
 
 Stay **focus** and enjoy the time!
 
-### **Note**
-
-Cheaters are strictly punished at **42**, so use wisely all this stuff. ;)
-
 ### **Credits**
 
-All the shared documents were prepared by **Staff 42**. Solutions are mine.
+All the shared documents were prepared by **Staff 42**.
 
-If you want to access to the **full repo**, contact me in **[private](mailto:gicamerl@student.42.fr)**.
+### **License**
 
-### **CC License**
-
-This work is provided under the terms of this license: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+This work is licensed under the terms of **[42 Unlicense](https://github.com/gcamerli/42unlicense)**.
 
 ### **Donations**
 
