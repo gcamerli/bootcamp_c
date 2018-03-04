@@ -45,7 +45,7 @@ All the shared documents were prepared by **Staff 42**.
 
 ### **License**
 
-This work is licensed under the terms of **[42 Unlicense](https://github.com/gcamerli/42unlicense)**.
+This work is published under the terms of **[42 Unlicense](https://github.com/gcamerli/42unlicense)**.
 
 ### **Donations**
 
